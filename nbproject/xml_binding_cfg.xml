@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<schemas xmlns='http://xml.netbeans.org/schema/JAXBWizConfig' destdir='build/generated-sources/jaxb' projectName='iComparePro' version='1.0'>
+	<schema type='-wsdl' package='com.icompare.amazon' name='AWSECommerceService'>
+		<xjc-options>
+		</xjc-options>
+		<schema-sources>
+			<schema-source location='src/conf/xml-resources/jaxb/AWSECommerceService/AWSECommerceService.wsdl' origLocation='../../AWSECommerceService.wsdl'/>
+		</schema-sources>
+		<bindings>
+		</bindings>
+		<catalog/>
+	</schema>
+</schemas>
