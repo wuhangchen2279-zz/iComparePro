@@ -92,24 +92,24 @@ public class SearchManager {
     private EntityManager em;
     private EntityManagerFactory emf;
     //Amazon API key info
-    private static final String AWS_ACCESS_KEY_ID = "AKIAIEPO3H3MKKKEUA3Q";
-     private static final String AWS_SECRET_KEY = "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";
-    private static final String ASSOCIATE_TAG ="wa00e-20";
-    private static final String ENDPOINT = "ecs.amazonaws.com";
+    private static final String AWS_ACCESS_KEY_ID = "";
+     private static final String AWS_SECRET_KEY = "";
+    private static final String ASSOCIATE_TAG ="";
+    private static final String ENDPOINT = "";
     
     //Google API key info
-    private static final String DEV_KEY = "AIzaSyDwaMjhTN9BZgvmcg-hbSGJrMdZy9X6ZBs";
-    private static final String CX_KEY_BOOK = "000738359894263096519:nwy1w2pld60"; 
-    private static final String CX_KEY_DVD = "000738359894263096519:t2dbm7wwauo";
+    private static final String DEV_KEY = "";
+    private static final String CX_KEY_BOOK = ""; 
+    private static final String CX_KEY_DVD = "";
     
     //eBay API key info
-    private static final String EBAY_API_KEY = "Personal-edf4-40f1-a704-82d255967493";
+    private static final String EBAY_API_KEY = "";
     
     //Twitter API key info
-    private static final String CONSUMER_KEY = "efKqM8xv6aiuMGXAjJIttQ";
-    private static final String CONSUMER_SECRET = "ThTQJImoFPYq0qCco1oxN81CG0miV6pX4th8ebGDjqg";
-    private static final String OAUTH_TOKEN = "1389003079-r3o3Oruu78SieKGwyZEUc7xv7MPAdqQXUzhgc6V";
-    private static final String OAUTH_TOKEN_SECRET = "uW5B1iF12IibWFQ7jntw6IaQKtnEsr7G8mGMNV3tg";
+    private static final String CONSUMER_KEY = "";
+    private static final String CONSUMER_SECRET = "";
+    private static final String OAUTH_TOKEN = "";
+    private static final String OAUTH_TOKEN_SECRET = "";
     
     //words bag
     private static final List<String> positiveWordsBag = Arrays.asList("excellent","beautiful","cool","nice","perfect","better","wow!","no 1","star","think ahead",
